@@ -1,0 +1,45 @@
+body{
+	background-image:url(../images/pattern.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+
+}
+h1{
+	color: silver;
+	font-family: 'Noto Sans', sans-serif;
+	font-family: 'Francois One', sans-serif;
+	margin:bottom;
+	background-color:#333;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+h2{
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: silver;
+}
+
+.about{
+	font-family: 'Noto Sans', sans-serif;
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.5;
+	color:white;
+}
+.footer{
+	color:white;
+}
+.container{
+	width:500px;
+	margin:0 auto;
+	text-align: center;
+}
+#me{
+	height: 200px;
+	weight: 200px;
+	border-radius: 50%:
+	border-style: solid;
+	border-width: 10px;
+	border-color: white;
+	margin-top:50px;
+}
